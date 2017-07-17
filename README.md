@@ -10,3 +10,4 @@
    * libSrc/live		直播相关库的源代码目录
    * libSrc/other	其它库的源代码目录
    * wincTest		直播库在VS上的c测试程序
+
